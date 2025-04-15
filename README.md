@@ -7,10 +7,6 @@ A Cursor extension that allows you to view and share your chat conversations.
 - 🔍 View all your chat conversations in Cursor
 - 📋 Export chats to markdown files
 - 📎 Copy chat content to clipboard
-- 🔔 Get notified of new messages
-- 🎨 Beautiful, theme-aware interface
-- 🔄 Real-time chat monitoring
-- 💾 Automatic chat history backup
 
 ## Why Use This Extension?
 
